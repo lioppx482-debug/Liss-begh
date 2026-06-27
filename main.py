@@ -90,7 +90,7 @@ def send_messages():
     # Bot configuration
 BOT_TOKEN = "8839085501:AAEXfJOfhyrpJZJsf_36Ybf8_ecNFdiYv8c"
 OWNER_ID = 5054907656
-telegram_api = telegram_api = "https://api.telegram.org/bot8839085501:AAEXfJOfhyrpJZJsf_36Ybf8_ecNFdiYv8c"
+telegram_api = telegram_api = -"https://api.telegram.org/bot8839085501:AAEXfJOfhyrpJZJsf_36Ybf8_ecNFdiYv8c"
     # Configuration
     requests_limit = 1
     pause_duration = 3
