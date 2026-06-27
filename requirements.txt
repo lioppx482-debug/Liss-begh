@@ -1,0 +1,12 @@
+
+requests==2.31.0
+faker==18.11.1
+flask>=2.3.0,<3.0.0
+werkzeug>=2.3.0,<3.0.0
+numpy>=1.22.2
+urllib3>=1.26.12
+aiogram>=2.25.1
+pyrogram>=2.0.106
+braintree>=4.26.0
+flask>=2.3.0,<3.0.0
+werkzeug>=2.3.0,<3.0.0
